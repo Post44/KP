@@ -1,0 +1,3 @@
+all:
+	sudo g++ F.cpp -o app -lcrypto
+	sudo ./app
